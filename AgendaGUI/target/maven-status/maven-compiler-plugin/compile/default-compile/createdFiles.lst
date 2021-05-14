@@ -1,0 +1,6 @@
+main\Agenda.class
+textFilesApps\CreateTextFile.class
+textFilesApps\ReadTextFile.class
+main\Pessoa.class
+gui\JanelaAgenda.class
+textFilesApps\FileAndDirectoryInfo.class
